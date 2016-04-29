@@ -12,3 +12,7 @@ the repos existing `.git` directory.
     github_gravatar_fetch
 
     ls .git/avatar # to show the downloaded images
+
+## Acknowledgements
+
+This is a modified version of Perl code found in the [Gource wiki](https://code.google.com/p/gource/wiki/GravatarExample).
